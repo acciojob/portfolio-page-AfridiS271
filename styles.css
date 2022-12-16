@@ -1,2 +1,40 @@
 
 /* Your CSS Code here. */
+*{
+    background-color: aqua;
+}
+#photo{
+    border: none;
+    border-radius: 3px;
+    height: 220px;
+    width: 180px;
+}
+#name{
+    background-color: blue;
+    color: rgb(rgb(9, 255, 0));
+    height: 50px;
+    margin-top: 6px;
+    padding: 5px;
+}
+.profile{
+    background-color: tomato;
+    color: black;
+    height: 60px;
+    padding: 5px;
+    margin-top: 6px;
+}
+#linkedin:hover{
+    color: crimson;
+}
+#skills{
+    background-color: blueviolet;
+    height: 25;
+    padding: 6px;
+    margin-top: 8px;
+}
+#projects{
+    background-color:fuchsia;
+    height: 25;
+    padding: 6px;
+    margin-top: 8px;
+}
